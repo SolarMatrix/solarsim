@@ -2,4 +2,8 @@ package solarsim
 
 func main() {
 
+
+
+
+	
 }

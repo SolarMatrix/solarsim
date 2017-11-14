@@ -1,2 +1,3 @@
-# solarsim
+## solarsim
+
 Solar system simulation code

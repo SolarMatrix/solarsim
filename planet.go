@@ -10,6 +10,7 @@ type State struct {
 
 type Planet struct {
 	State
+	name string
 	radius float32
 }
 
