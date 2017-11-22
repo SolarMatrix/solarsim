@@ -29,7 +29,7 @@
 ## Calculation Attributes
 
 1. Orbit
-... Stars are locked to point (0,0,0), all other objects will require orbit calculating
+   Stars are locked to point (0,0,0), all other objects will require orbit calculating
 2. Temperature
 ... Linked to star output, percentage of output falling on a given area of an objects curved surface
 3. Rotation
